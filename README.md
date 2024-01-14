@@ -117,7 +117,7 @@ mvn javadoc:javadoc # Generate the javadoc using maven (the output is in target/
 
 Reda Meziane - reda.meziane99@gmail.com
 
-Project Link: [https://github.com/MetroMap](https://github.com/RedaMez/PlanifCarbon)
+Project Link: [https://github.com/MetroMap](https://github.com/RedaMez/MetroMap)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
