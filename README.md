@@ -1,8 +1,8 @@
-# PlanifCarbon
+# MetroMap
 
-Projet de génie logiciel du groupe Carbon (M1 2023)
+Application de navigation avec itinéraire de transports en commun
 
-# Project's promoting video 
+# Screenshots 
 https://www.veed.io/view/c15b3009-2689-43bd-aabd-d9d7359473bd?panel=share
 
 # Configure project
