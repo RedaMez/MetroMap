@@ -1,6 +1,4 @@
-
-
-<h3 align="center">MetroMap</h3>
+[![](./metromap-home.png)](metromap-home.png)
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -24,12 +22,8 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![](./documents/screenshots/homepage-screenshot.png)](documents/screenshots/homepage-screenshot.png)
 
 MetroMap is a public transportation navigation project, which enables users to obtain the best route 
 based on their various needs, along with information about Parisian metro lines and connections.
