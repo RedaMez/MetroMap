@@ -31,7 +31,7 @@
 
 [![](./documents/screenshots/homepage-screenshot.png)](documents/screenshots/homepage-screenshot.png)
 
-Here is my public transportation navigation project, which enables users to obtain the best route 
+MetroMap is a public transportation navigation project, which enables users to obtain the best route 
 based on their various needs, along with information about Parisian metro lines and connections.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
